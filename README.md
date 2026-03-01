@@ -1,9 +1,117 @@
-RMSTU Canteen Management System
+# RMSTU Canteen Management System  
+### System Analysis & Design Project
 
-System Analysis & Design Project
+## Overview
 
-📖 Overview
+This project presents a complete **System Analysis and Design** of the existing RMSTU Canteen system and proposes an automated web-based ordering solution to improve operational efficiency, reduce waiting time, and increase profitability.
 
-This project presents a complete system analysis and design of the existing RMSTU Canteen and proposes an automated web-based ordering system to improve efficiency, reduce waiting time, and increase profitability.
+The study includes problem identification, feasibility analysis, financial evaluation, and system modeling.
 
-The study includes problem identification, feasibility analysis, financial evaluation, and system modeling diagrams.
+---
+
+## Problem Recognition
+
+The existing manual canteen system faced several issues:
+
+- Long waiting time during peak hours  
+- Limited food variation  
+- No online ordering facility  
+- No digital payment integration  
+- Low service efficiency  
+- Limited seating capacity  
+- Minimal profit margin  
+
+---
+
+## Feasibility Study
+
+### ✔ Technical Feasibility
+- Web-based online ordering system  
+- Digital payment integration (Mobile banking support)  
+- Admin management dashboard  
+
+### ✔ Operational Feasibility
+- Staff training and skill improvement  
+- Expanded food variety  
+- Increased seating capacity  
+- Improved service workflow  
+
+### ✔ Economic Feasibility
+- Monthly Cost: ~146,000 BDT  
+- Monthly Sales: 130,000–150,000 BDT  
+- Average Monthly Profit: ~6,000 BDT  
+
+---
+
+## Existing System Analysis
+
+- Total Staff: 5  
+- Canteen Space: ~400 sq ft  
+- Manual ordering process  
+- No website or social media presence  
+- No digital sales tracking  
+
+---
+
+## Proposed Candidate System
+
+An **Automated Canteen Ordering System** that includes:
+
+- Online food ordering  
+- Digital e-menu  
+- Cashless and cash payment options  
+- Admin dashboard for order management  
+- Sales and profit tracking  
+- Reduced dependency on manual waiter system  
+
+---
+
+## Projected Financial Impact (Candidate System)
+
+- Target: 100 orders per day  
+- Profit per order: 15 BDT  
+- Estimated Monthly Profit: 24,000 BDT  
+- Admin Salary: 18,000 BDT  
+
+The proposed system increases operational efficiency and overall profitability.
+
+---
+
+## System Models Included
+
+- Use Case Diagram  
+- Control Flow Diagram  
+- Block Diagram  
+- Sales, Cost & Profit Comparison Chart  
+
+---
+
+## Proposed Technologies
+
+- PHP  
+- HTML  
+- CSS  
+- MySQL  
+
+---
+
+## Full Documentation
+
+The complete project report is available in this repository as:
+
+`System_Analysis_Project.pdf`
+
+---
+
+## Academic Context
+
+This project was completed as part of the **System Analysis & Design Lab** course in the Department of Computer Science and Engineering.
+
+---
+
+## Author
+
+Punam Kanungoe  
+B.Sc. in Computer Science & Engineering  
+
+
