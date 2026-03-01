@@ -99,7 +99,7 @@ The proposed system increases operational efficiency and overall profitability.
 
 The complete project report is available in this repository as:
 
-`System_Analysis_Project.pdf`
+`[RMSTU_Canteen_System_Analysis_Project.pdf]`
 
 ---
 ## Academic Context
