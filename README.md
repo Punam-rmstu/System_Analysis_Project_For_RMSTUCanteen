@@ -102,16 +102,16 @@ The complete project report is available in this repository as:
 `System_Analysis_Project.pdf`
 
 ---
-
 ## Academic Context
 
-This project was completed as part of the **System Analysis & Design Lab** course in the Department of Computer Science and Engineering.
+This project was completed as part of the **System Analysis & Design Lab (CSE-3208)** course in the Department of Computer Science and Engineering at Rangamati Science and Technology University (RMSTU).
 
 ---
 
-## Author
+## 👩‍💻 Author
 
 Punam Kanungoe  
 B.Sc. in Computer Science & Engineering  
+Rangamati Science and Technology University (RMSTU)
 
 
