@@ -108,10 +108,26 @@ This project was completed as part of the **System Analysis & Design Lab (CSE-32
 
 ---
 
+## Individual Contribution
+
+This project was officially submitted as a group assignment.
+
+Initial data collection regarding the existing canteen system was conducted with assistance from the team member.
+
+However, I independently performed:
+
+- Problem identification and system analysis  
+- Technical, operational, and economic feasibility study  
+- Cost-profit and financial evaluation  
+- Design of system models (Use Case, Control Flow, Block Diagrams)  
+- Proposed candidate system architecture  
+- Full documentation structuring and compilation  
+
+---
+
 ## Author
 
 Punam Kanungoe  
 B.Sc. in Computer Science & Engineering  
 Rangamati Science and Technology University (RMSTU)
-
 
