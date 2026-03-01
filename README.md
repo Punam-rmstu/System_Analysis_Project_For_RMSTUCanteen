@@ -108,7 +108,7 @@ This project was completed as part of the **System Analysis & Design Lab (CSE-32
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 Punam Kanungoe  
 B.Sc. in Computer Science & Engineering  
