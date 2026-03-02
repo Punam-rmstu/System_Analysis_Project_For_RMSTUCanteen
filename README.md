@@ -131,3 +131,9 @@ Punam Kanungoe
 B.Sc. in Computer Science & Engineering  
 Rangamati Science and Technology University (RMSTU)
 
+## License
+
+**© 2026 Punam Kanungoe. All Rights Reserved.**
+
+This project is provided as-is for educational and reference purposes.
+You may **view and use** the code, but **modifications are strictly prohibited** without written permission.
